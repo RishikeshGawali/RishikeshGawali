@@ -9,7 +9,7 @@
 ---
 
 ### 👨‍💻 About Me
-Aspiring Data Analyst skilled in transforming raw data into meaningful insights using analytics, visualization, and reporting tools, with a strong foundation in programming and databases.
+As a programmer, I build solutions that turn ideas into working software. I’m passionate about learning new technologies, exploring innovative approaches, and continuously expanding my skills by working on exciting projects.
 
 ---
 
