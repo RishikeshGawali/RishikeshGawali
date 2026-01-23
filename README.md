@@ -35,10 +35,10 @@ As a programmer, I build solutions that turn ideas into working software. I’m 
 
 ### 🔗 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/rishikesh-gawali-b3a510237/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="https://www.instagram.com/YOUR_INSTAGRAM">
+  <a href="https://www.instagram.com/rishigawali_07/">
     <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram"/>
   </a>
 </p>
