@@ -6,7 +6,6 @@
 ### About Me 👨‍💻  
 As a programmer, I build solutions that turn ideas into working software. I’m passionate about learning new technologies, exploring innovative approaches, and continuously expanding my skills by working on exciting projects.
 
----
 ### Skills & Tools 🛠
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
@@ -25,7 +24,6 @@ As a programmer, I build solutions that turn ideas into working software. I’m 
   <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
 </p>
 
----
 ### Connect with Me 🔗
 <p align="center">
   <a href="https://www.linkedin.com/in/rishikesh-gawali-b3a510237/">
