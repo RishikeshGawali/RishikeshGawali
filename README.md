@@ -36,17 +36,3 @@ Aspiring Data Analyst skilled in transforming raw data into meaningful insights 
     <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram"/>
   </a>
 </p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rishikeshgawali&show_icons=true&theme=tokyonight"/>
-</p>
-
----
-
-### 🔥 GitHub Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishikeshgawali&theme=tokyonight"/>
-</p>
