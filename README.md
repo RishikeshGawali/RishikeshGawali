@@ -17,12 +17,18 @@ As a programmer, I build solutions that turn ideas into working software. I’m 
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/System%20Programming-2F2F2F?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OOP-6A5ACD?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Data%20Analytics-0A66C2?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Data%20Visualization-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm"/>
+  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
 </p>
 
 ---
