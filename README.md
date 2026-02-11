@@ -3,6 +3,13 @@
   <img src="https://github.com/Rishikeshgawali/Rishikeshgawali/blob/main/banner.png" alt="banner" />
 </p>
 
+Add this **just below your banner section** (don’t change anything else in your code):
+
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=0A66C2&center=true&vCenter=true&width=900&lines=Hi+I'm+Rishikesh;Aspiring+Programmer+and+Computer+Engineer;C+|+C%2B%2B+|+Python+|+Java+|+MySQL+|+PostgreSQL+|+Power+BI+|+Excel;Passionate+about+Data+Analytics+and+Software+Development" />
+</p>
+
 ### About Me 👨‍💻 : 
 As a programmer, I build solutions that turn ideas into working software. I’m passionate about learning new technologies, exploring innovative approaches, and continuously expanding my skills by working on exciting projects.
 
