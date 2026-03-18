@@ -11,7 +11,7 @@
 ### About Me : 
 As a programmer, I build solutions that turn ideas into working software. I’m passionate about learning new technologies, exploring innovative approaches, and continuously expanding my skills by working on exciting projects.
 
-### Skills & Tools 🛠 :
+### Skills & Tools :
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
