@@ -29,7 +29,7 @@ As a programmer, I build solutions that turn ideas into working software. I’m 
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>    
   <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/System%20Programming-2F2F2F?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/System%20Programming-5C2D91?style=for-the-badge&logo=gnu&logoColor=white"/>
   <img src="https://img.shields.io/badge/Automation-FF6F00?style=for-the-badge&logo=selenium&logoColor=white"/>
   <img src="https://img.shields.io/badge/OOP-6A5ACD?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
