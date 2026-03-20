@@ -25,7 +25,7 @@ As a programmer, I build solutions that turn ideas into working software. I’m 
   <img src="https://img.shields.io/badge/seaborn-4B77BE?style=for-the-badge&logo=seaborn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=Matplotlib&logoColor=white"/>
   <img src="https://img.shields.io/badge/Data%20Analytics-4285F4?style=for-the-badge&logo=google-analytics&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Data%20Visualization-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Visualization-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>    
   <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
