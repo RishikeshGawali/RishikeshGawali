@@ -8,6 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=1200&lines=Hi+I'm+Rishikesh;A+Programmer+and+Computer+Engineer;Feel+free+to+explore+my+Repositories" />
 </p>
 
+
 ### About Me : 
 As a programmer, I build solutions that turn ideas into working software. I’m passionate about learning new technologies, exploring innovative approaches, and continuously expanding my skills by working on exciting projects.
 
