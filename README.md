@@ -4,7 +4,6 @@
 </p>
 
 
-
 <!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=1200&lines=Hi+I'm+Rishikesh;A+Programmer+and+Computer+Engineer;Feel+free+to+explore+my+Repositories" />
