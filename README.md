@@ -48,6 +48,9 @@ As a programmer, I build solutions that turn ideas into working software. I’m 
   <a href="https://www.linkedin.com/in/rishikesh-gawali-b3a510237/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  <a href="https://leetcode.com/u/Rishikesh_Gawali/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
   <a href="https://www.hackerrank.com/profile/rishigawali11">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
