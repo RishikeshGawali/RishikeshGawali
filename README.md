@@ -1,4 +1,3 @@
-
 <!-- Banner -->
 <p align="center">
   <img src="https://github.com/Rishikeshgawali/Rishikeshgawali/blob/main/banner.png" alt="banner" />
